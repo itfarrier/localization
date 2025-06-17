@@ -1,0 +1,23 @@
+{
+  "postDownloadActionExecutor.zipExtraction/status": "Распакаванне...",
+  "finalizing": "Завяршэнне загрузкі... (гэта можа заняць некалькі момантаў)",
+  "noOptions": "Няма сумяшчальных варыянтаў для загрузкі",
+  
+  "deeplink/confirmation/title": "Загрузіць мадэль з Hugging Face 🤗",
+  "deeplink/confirmation/subtitle": "{{modelName}}",
+  "deeplink/confirmation/selectRecommended": "Выбраць рэкамендаваны",
+  "deeplink/confirmation/selectOption": "Выбраць варыянт загрузкі",
+  "deeplink/confirmation/recommendedOption": "Хутчэй за ўсё, найлепшы варыянт для большасці карыстальнікаў",
+  "deeplink/confirmation/downloadButton": "Загрузіць",
+  "deeplink/confirmation/nevermindButton": "Не, дзякуй",
+  "deeplink/confirmation/modelPresent/title": "Мадэль Hugging Face знойдзена ✅",
+  "deeplink/confirmation/modelPresent/body": "Добрая навіна! Гэты файл мадэлі ўжо даступны на вашым камп'ютары.",
+  "deeplink/confirmation/loadInChat": "Загрузіць {{ modelName }} у новы чат",
+  "deeplink/error/modelNotFound/title": "Ой, нам не ўдалося знайсці гэтую мадэль",
+  "deeplink/error/modelNotFound/body": "Двойчы праверце назву мадэлі і паспрабуйце іншы варыянт загрузкі.",
+  "deeplink/actions/trySearching": "Паспрабуйце знайсці {{modelName}} на Hugging Face",
+
+  "downloadsPanel/title": "Загрузкі",
+  "downloadsPanel/sectionTitle/ongoing": "У працэсе",
+  "downloadsPanel/sectionTitle/completed": "Завершаныя"
+} 

@@ -1,0 +1,38 @@
+{
+  "copyLmStudioLinkButton/toolTip": "Капіяваць спасылку для загрузкі мадэлі",
+
+  "filter.noMatches": "Няма супадзенняў",
+  "longRunningTask": {
+    "unbundlingDependencies": {
+      "badge": "Распакоўка рэсурсаў"
+    },
+    "performingBackendHardwareSurvey": {
+      "badge": "Праверка сумяшчальнасці з асяроддзем выканання"
+    },
+    "indexingRuntimes": {
+      "badge": "Індэксацыя асяроддзяў выканання"
+    },
+    "indexingModels": {
+      "badge": "Індэксацыя мадэляў"
+    },
+    "authenticating": {
+      "badge": "Аўтэнтыфікацыя"
+    },
+    "autoUpdatingExtensionPack": {
+      "badge": "Абнаўленне пакета пашырэнняў ({{name}} v{{version}})"
+    }
+  },
+  "auth": {
+    "prompt": "Увайсці ў LM Studio Hub",
+    "authError": "Памылка аўтэнтыфікацыі",
+    "noAccount": "Няма акаўнта?",
+    "signUp": "Зарэгістравацца",
+    "havingTrouble": "Узніклі праблемы?",
+    "retry": "Паспрабаваць зноў"
+  },
+  "artifacts": {
+    "fetchError": "Не ўдалося атрымаць артэфакты"
+  },
+  "incompatible": "Несумяшчальны",
+  "compatible": "Сумяшчальны"
+} 
